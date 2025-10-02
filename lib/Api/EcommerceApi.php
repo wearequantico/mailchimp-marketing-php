@@ -7130,7 +7130,7 @@ class EcommerceApi
 
         $query = Query::build($queryParams);
         return new Request(
-            'PATCH',
+            'PUT',
             $this->config->getHost() . $resourcePath . ($query ? "?{$query}" : ''),
             $headers,
             $httpBody
