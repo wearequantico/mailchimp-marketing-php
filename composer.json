@@ -1,6 +1,5 @@
 {
-    "name": "mailchimp/marketing",
-    "version": "3.0.80",
+    "name": "quantico-mailchimp/marketing", 
     "description": "",
     "keywords": [
         "swagger",
@@ -12,8 +11,8 @@
     "license": "proprietary",
     "authors": [
         {
-            "name": "Mailchimp",
-            "homepage": "https://github.com/mailchimp/mailchimp-marketing-php"
+            "name": "Quantico Mailchimp",
+            "homepage": "https://github.com/wearequantico/mailchimp-marketing-php"
         }
     ],
     "require": {
